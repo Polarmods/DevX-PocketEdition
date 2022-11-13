@@ -6,5 +6,6 @@ WIP crack and mod based on DevX Android Edition.
 * Fixed il2cpp decompiler (it not yet on MAC, but already on android LOL)
 * Faster unpacking than AE demo
 * Fixed storage permissions for android 10+
+* Support ASTC and ETC textures replacing (WIP)
 ## How get?
 **No way now, it WIP**
